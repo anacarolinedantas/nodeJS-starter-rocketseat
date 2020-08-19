@@ -1,7 +1,7 @@
 ###  NodeJS Starter | RocketSeat 🚀
 Criação de uma API REST utilizando NodeJS.
 
-%## 🛠 Tecnologias
+## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - **[JavaScript](https://www.javascript.com)**
 - **[NodeJS](https://nodejs.org/en/)**
